@@ -1,0 +1,9 @@
+.idea/*
+.DS_Store
+*.pyc
+__pycache__
+logs/*
+model/*
+pic/*
+web_model/*
+!*.placeholder
